@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "RIVER",
+  "base_artist": "tofubeats",
+  "createdAt": "2025-12-16T04:38:29.042602Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fishin' On a River",
+      "artist": "Jake Owen",
+      "has_synced": false,
+      "path": "select/01_Fishin'_On_a_River_Jake_Owen.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The River",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/02_The_River_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The River",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_The_River_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The River - Live in Luxembourg ’19",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_The_River_-_Live_in_Luxembourg_’19_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The River (Live in Luxembourg '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/05_The_River_(Live_in_Luxembourg_'19)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Big River",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/06_Big_River_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Deep River Woman",
+      "artist": "Lionel Richie",
+      "has_synced": true,
+      "path": "select/07_Deep_River_Woman_Lionel_Richie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dog River Blues",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/08_Dog_River_Blues_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dog River Blues",
+      "artist": "Alan Jackson",
+      "has_synced": false,
+      "path": "select/09_Dog_River_Blues_Alan_Jackson.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Down On the River",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/10_Down_On_the_River_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gonna Take a Lot of River",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/11_Gonna_Take_a_Lot_of_River_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Harlem River Blues",
+      "artist": "Steve Earle",
+      "has_synced": true,
+      "path": "select/12_Harlem_River_Blues_Steve_Earle.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Harlem River Blues",
+      "artist": "Steve Earle & The Dukes",
+      "has_synced": true,
+      "path": "select/13_Harlem_River_Blues_Steve_Earle_&_The_Dukes.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Medley: The Bird / Whiskey River / On the Road Again / He Stopped Loving Her Today",
+      "artist": "Jerry Reed",
+      "has_synced": false,
+      "path": "select/14_Medley__The_Bird___Whiskey_River___On_the_Road_Again___He_Stopped_Loving_Her_Tod_Jerry_Reed.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ohoopee River Bottom Land",
+      "artist": "Larry Jon Wilson",
+      "has_synced": true,
+      "path": "select/15_Ohoopee_River_Bottom_Land_Larry_Jon_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "River",
+      "artist": "Jason Isbell and the 400 Unit",
+      "has_synced": true,
+      "path": "select/16_River_Jason_Isbell_and_the_400_Unit.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "River Fool",
+      "artist": "Ian Noe",
+      "has_synced": true,
+      "path": "select/17_River_Fool_Ian_Noe.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RIVER",
+      "artist": "tofubeats",
+      "has_synced": false,
+      "path": "select/pl_01_RIVER_tofubeats.txt"
+    }
+  ]
+}
